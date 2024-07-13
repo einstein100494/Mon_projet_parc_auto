@@ -53,15 +53,6 @@ $lieux = $connexion->prepareAny('autres' , 'autre' , 4);
               foreach ($marques as $marque) {
               ?><option value="<?php echo $marque->nom; ?>"><?php echo $marque->nom; ?></option><?php
               }?>
-              <!-- <option value="citroen">Citroen</option>
-              <option value="Duster">Duster</option>
-              <option value="JMC">JMC</option>
-              <option value="hyundai ix35">Hyundai ix35</option>
-              <option value="hyundai i20">Hyundai i20</option>
-              <option value="hyundai santafee">Hyundai santafee</option>
-              <option value="suzuki alto">Suzuki alto</option>
-              <option value="peugeot landtrek">Peugeot landtrek</option>
-              <option value="mitsubishi L200">Mitsubishi L200</option> -->
             </select>
           </td>
           <td class="py-2  ps-3">Date de circulation<span class="text-danger h5 ms-2">*</span></td>
