@@ -1,0 +1,18 @@
+.div{
+    width: 10% ;
+    background-color : green ;
+    height: 100px ;
+}
+
+.bg-linear{
+    background-color: red ;
+}
+.counter{
+    background-color: red;
+    padding: 10px;
+    border-radius: 50px;
+    position: absolute;
+    left:35%;
+    top:10px;
+}
+

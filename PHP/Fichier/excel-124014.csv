@@ -1,0 +1,19 @@
+id;immatriculation;marque;type;nombre_de_place;date_de_circulation;combustion;lieu;service;nom_utilisateur;couleur 
+34;6322TBK;hyundai santafee;VP;7;2022-02-08gasoil;antananarivo;HUM;RANDRIANANTENAIANA fenitra ;blanc
+39;7970 TBF;citroen;cammionnette;10;2024-04-17essence;antananarivo;logistique;PATRICE Lheureus;blanc
+40;3707 TAM;mazda;mini bus;5;2011-03-25essence;antananarivo;comptabilité;RAKOTONDRAZARA Mahefasoa Mihary;blanc
+41;1545 TBN;toyota RAV4;VP;10;2010-02-19essence;antananarivo;DCPP;PATRICE Lheureus;blanc
+42;29929 WWT ;toyta rush;4*4;10;2024-04-17essence;antananarivo;PME;PATRICE Lheureus;blanc
+44;29929 WWT ;mazda;cammionnette;10;2024-04-16essence;antananarivo;comptabilité;RANDRIATANJONA Jean Michel;blanc
+46;5510 TBK; HUYNDAY SANTAFEE;VP;7;2010-07-14gasoil;Antananarivo;DCPP;DG;noir
+47;1723 TBK;JMC;Cammionnette;5;2005-07-25gasoil;Antananarivo;Logistique;RANDRIANATENAINASOA tatiana;blanc
+48;0718 TAS;mazda;cammionnette;5;2009-02-11essence;antananarivo;comptabilité;RANDRIATANJONA Nathan;blanc
+49;0712 TAS;mazda;cammionnette;5;2012-07-18essence;antananarivo;comptabilité;RAFANJAHARIVONY Diamondra;noir
+50;9355 TAU;Huyndai ix35;VP;7;2015-06-08gasoil;Antananarivo;CES;TIANARISON Jovanny;rouge
+51;6322TBK; HUYNDAY SANTAFEE;VP;7;2014-07-15gasoil;Antananarivo;PME;NANTATIANA Aimsé;blanc
+52;3508 WWT;ZNA;Bus;15;2014-07-14gasoil;Antananarivo;Comptabilité;RANDRIATANJONA Jean Michel;blanc
+54;3329 TBF;duster;VP;5;2019-03-18gasoil;Antananarivo;HUM;RAKOTONANTENAINA mahafaly;bleu
+55;29929 WWT ;Mazda;Cammionnette;5;2024-04-10gasoil;Antananarivo;Comptabilité;angelin;blanc
+56;1111 TTT;Mazda;Cammionnette;5;2024-04-02gasoil;DIEGO;Comptabilité;ANDRY;blanc
+57;3364WWT;duster;VP;5;2024-04-16gasoil;Fianarantsoa;HUM;LALAO;rouge
+58;7195 TBN;Toyota Rush;4x4;5;2024-04-16gasoil;Marovoay;Logistique;JAZZ GIST;noir

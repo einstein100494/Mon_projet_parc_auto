@@ -1,0 +1,57 @@
+id;immatriculation;marque;type;nombre_de_place;date_de_circulation;combustion;lieu;service;nom_utilisateur;couleur 
+34;6322TBK;hyundai santafee;VP;7;2022-02-08gasoil;antananarivo;HUM;RANDRIANANTENAIANA fenitra ;blanc
+39;7970 TBF;citroen;cammionnette;10;2024-04-17essence;antananarivo;logistique;PATRICE Lheureus;blanc
+40;3707 TAM;mazda;mini bus;5;2011-03-25essence;antananarivo;comptabilité;RAKOTONDRAZARA Mahefasoa Mihary;blanc
+41;1545 TBN;toyota RAV4;VP;10;2010-02-19essence;antananarivo;DCPP;PATRICE Lheureus;blanc
+42;29929 WWT ;toyta rush;4*4;10;2024-04-17essence;antananarivo;PME;PATRICE Lheureus;blanc
+44;29929 WWT ;mazda;cammionnette;10;2024-04-16essence;antananarivo;comptabilité;RANDRIATANJONA Jean Michel;blanc
+46;5510 TBK; HUYNDAY SANTAFEE;VP;7;2010-07-14gasoil;Antananarivo;DCPP;DG;noir
+47;1723 TBK;JMC;Cammionnette;5;2005-07-25gasoil;Antananarivo;Logistique;RANDRIANATENAINASOA tatiana;blanc
+48;0718 TAS;mazda;cammionnette;5;2009-02-11essence;antananarivo;comptabilité;RANDRIATANJONA Nathan;blanc
+50;9355 TAU;Huyndai ix35;VP;7;2015-06-08gasoil;Antananarivo;CES;TIANARISON Jovanny;rouge
+51;6322TBK; HUYNDAY SANTAFEE;VP;7;2014-07-15gasoil;Antananarivo;PME;NANTATIANA Aimsé;blanc
+52;3508 WWT;ZNA;Bus;15;2014-07-14gasoil;Antananarivo;Comptabilité;RANDRIATANJONA Jean Michel;blanc
+54;3329 TBF;duster;VP;5;2019-03-18gasoil;Antananarivo;HUM;RAKOTONANTENAINA mahafaly;bleu
+55;29929 WWT ;Mazda;Cammionnette;5;2024-04-10gasoil;Antananarivo;Comptabilité;angelin;blanc
+56;1111 TTT;mazda;cammionnette;5;2024-04-02essence;antananarivo;comptabilité;ANDRINIRINA;blanc
+57;3364WWT;duster;VP;5;2024-04-16gasoil;Fianarantsoa;HUM;LALAO;rouge
+58;7195 TBN;Toyota Rush;4x4;5;2024-04-16gasoil;Marovoay;Logistique;JAZZ GIST;noir
+59;7412 TU;Nissan;4x4;5;2024-05-16gasoil;AMBATONDRAZAKA;PME;Mamatoa;rouge
+60;4545TGD;duster;VP;4;2024-05-29essence;Antananarivo;Logistique;RAKOTONATOANDRO Jean;blanc
+61;7970 TBF;duster;4x4;10;2024-06-27essence;Antananarivo;Logistique;RANDRIATSAKAIZA Mamitiana;bleu
+62;29923 WWT ;Mazda;Cammionnette;5;2024-06-20essence;Antananarivo;Comptabilité;Aingonirina ANDRIANAVALONA;blanc
+63;29923 WWT ;Mazda;Cammionnette;5;2024-06-05essence;Antananarivo;Comptabilité;RAKOTONATOANDRO Jean;blanc
+64;29923 WWT ;Mazda;Cammionnette;5;2024-06-05essence;Antananarivo;Comptabilité;RAKOTONATOANDRO Jean;blanc
+65;29923 WWT ;Mazda;Cammionnette;5;2024-06-05essence;Antananarivo;Comptabilité;RAKOTONATOANDRO Jean;blanc
+66;29923 WWT ;Mazda;Cammionnette;5;2024-06-05essence;Antananarivo;Comptabilité;RAKOTONATOANDRO Jean;blanc
+67;29923 WWT ;Mazda;Cammionnette;5;2024-06-05essence;Antananarivo;Comptabilité;RAKOTONATOANDRO Jean;blanc
+68;29923 WWT ;Mazda;Cammionnette;5;2024-06-05essence;Antananarivo;Comptabilité;RAKOTONATOANDRO Jean;blanc
+69;29923 WWT ;Mazda;Cammionnette;5;2024-06-05essence;Antananarivo;Comptabilité;RAKOTONATOANDRO Jean;blanc
+70;29923 WWT ;Mazda;Cammionnette;5;2024-06-05essence;Antananarivo;Comptabilité;RAKOTONATOANDRO Jean;blanc
+71;29923 WWT ;Mazda;Cammionnette;5;2024-06-05essence;Antananarivo;Comptabilité;RAKOTONATOANDRO Jean;blanc
+72;7970 TBF;duster;VP;10;2024-06-19essence;Antananarivo;PME;RAKOTONATOANDRO Jean;blanc
+73;29929 WWT ;Mazda;Cammionnette;7;2024-06-05essence;Logistique;Antananarivo;Sarah RAHANITRINIANA;blanc
+74;29929 WWT ;Mazda;Cammionnette;7;2024-06-05essence;Logistique;Antananarivo;Sarah RAHANITRINIANA;blanc
+75;1545 TBN;Mazda;Cammionnette;7;2024-06-10essence;Logistique;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+76;1545 TBN;Mazda;Cammionnette;7;2024-06-10essence;Logistique;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+77;1545 TBN;Mazda;Cammionnette;7;2024-06-10essence;Logistique;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+78;1545 TBN;Mazda;Cammionnette;7;2024-06-10essence;Logistique;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+79;1545 TBN;Mazda;Cammionnette;7;2024-06-10essence;Logistique;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+80;1545 TBN;Mazda;Cammionnette;7;2024-06-10essence;Logistique;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+81;1545 TBN;Mazda;Cammionnette;7;2024-06-10essence;Logistique;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+82;1545 TBN;Mazda;Cammionnette;7;2024-06-10essence;Logistique;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+83;4545TGD;Mazda;VP;10;2024-06-05essence;Comptabilité;Tamatave;RANDRIATANJONA Jean Michel;blanc
+84;4545TGD;Mazda;VP;10;2024-06-05essence;Comptabilité;Tamatave;RANDRIATANJONA Jean Michel;blanc
+85;4545TGD;Mazda;VP;10;2024-06-05essence;Comptabilité;Tamatave;RANDRIATANJONA Jean Michel;blanc
+86;4545TGD;Mazda;VP;10;2024-06-05essence;Comptabilité;Tamatave;RANDRIATANJONA Jean Michel;blanc
+87;1545 TBN;Mazda;Cammionnette;7;2024-06-10essence;Logistique;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+88;1545 TBN;Toyota Rush;Bus;5;2024-05-28essence;Logistique;Fianarantsoa;RANDRIATANJONA Jean Michel;blanc
+89;1212LLM;duster;VP;7;2024-05-28gasoil;PME;Fianarantsoa;tonta;rouge
+90;29929 WWT ;Mazda;Cammionnette;12;2024-05-29essence;Comptabilité;Antananarivo;Sarah RAHANITRINIANA;blanc
+91;1545 TBN;Mazda;Cammionnette;12;2024-05-30essence;Comptabilité;Antananarivo;Aingonirina ANDRIANAVALONA;blanc
+92;1545 TBN;Toyota Rush;VP;10;2024-06-05essence;Comptabilité;Antananarivo;RANDRIATSAKAIZA Mamitiana;blanc
+93;10;mazda;cammionnette;5;2024-06-12gasoil;antananarivo;comptabilité;RANDRIATSAKAIZA Mamitiana;blanc
+94;1545 TBN;Mazda;Cammionnette;5;2024-06-26essence;PME;Antananarivo;RANDRIATANJONA Jean Michel;rouge
+95;1545 TBN;Mazda;Cammionnette;3;2024-06-04essence;Comptabilité;Antananarivo;Aingonirina ANDRIANAVALONA;blanc
+96;7974 TBF;Mazda;Cammionnette;4;2024-06-05essence;Comptabilité;Antananarivo;Aingonirina ANDRIANAVALONA;blanc
+97;3333TA;Mazda;4x4;6;2024-06-11gasoil;HUM;Antananarivo;JACKI;vert
